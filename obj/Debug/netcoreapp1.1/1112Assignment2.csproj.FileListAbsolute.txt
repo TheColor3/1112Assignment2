@@ -1,0 +1,8 @@
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment2\bin\Debug\netcoreapp1.1\1112Assignment2.deps.json
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment2\bin\Debug\netcoreapp1.1\1112Assignment2.runtimeconfig.json
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment2\bin\Debug\netcoreapp1.1\1112Assignment2.runtimeconfig.dev.json
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment2\bin\Debug\netcoreapp1.1\1112Assignment2.dll
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment2\bin\Debug\netcoreapp1.1\1112Assignment2.pdb
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment2\obj\Debug\netcoreapp1.1\1112Assignment2.AssemblyInfo.cs
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment2\obj\Debug\netcoreapp1.1\1112Assignment2.dll
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment2\obj\Debug\netcoreapp1.1\1112Assignment2.pdb
